@@ -1,0 +1,5 @@
+# No ignorar nada crítico, pero por si acaso:
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
